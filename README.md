@@ -9,7 +9,7 @@ Welcome to my GitHub repository!
 
 Feel free to explore my repositories and reach out if you'd like to collaborate on any exciting tech projects!
 
-Connect with me: [LinkedIn](https://www.linkedin.com/in/waqasahsan84/) | [Email] (waqasahsan84@gmail.com) | [Skype](waqasahsan84)
+Connect with me: [LinkedIn](https://www.linkedin.com/in/waqasahsan84/) | [Email](waqasahsan84@gmail.com) | [Skype](waqasahsan84)
 
 
 <!---
